@@ -1,0 +1,11 @@
+https://kodbazis.hu/react-kurzus/single-page-app-epitese?url=/
+
+
+npx create-react-app .
+
+npm install --save bootstrap
+
+npm i --save react-router-dom
+
+npm start
+
